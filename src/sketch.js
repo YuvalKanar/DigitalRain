@@ -1,4 +1,3 @@
-// TODO: add ghosting effect instead of "raining". [https://en.wikipedia.org/wiki/Matrix_digital_rain#/media/File:Digital_rain_animation_medium_letters_shine.gif]
 var fontsize = 20;
 var gap = 25;
 
